@@ -1,10 +1,15 @@
-19:26:14 **** Incremental Build of configuration Debug for project HelloWorld ****
+19:58:59 **** Incremental Build of configuration Debug for project HelloWorld ****
 make all 
 make: Цель «all» не требует выполнения команд.
-19:27:49 **** Incremental Build of configuration Debug for project HelloWorld ****
+19:59:05 **** Incremental Build of configuration Debug for project HelloWorld ****
 make all 
-Building target: HelloWorld
-Invoking: GCC C Linker
-gcc  -o "HelloWorld"  ./main.o   
-Finished building target: HelloWorld
- 
+make: Цель «all» не требует выполнения команд.
+19:59:55 **** Incremental Build of configuration Debug for project HelloWorld ****
+make all 
+make: Цель «all» не требует выполнения команд.
+20:01:47 **** Incremental Build of configuration Debug for project HelloWorld ****
+make all 
+make: Цель «all» не требует выполнения команд.
+20:01:51 **** Incremental Build of configuration Debug for project HelloWorld ****
+make all 
+make: Цель «all» не требует выполнения команд.
