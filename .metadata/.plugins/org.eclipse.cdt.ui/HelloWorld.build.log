@@ -1,0 +1,10 @@
+19:27:49 **** Incremental Build of configuration Debug for project HelloWorld ****
+make all 
+Building target: HelloWorld
+Invoking: GCC C Linker
+gcc  -o "HelloWorld"  ./main.o   
+Finished building target: HelloWorld
+ 
+
+19:27:49 Build Finished (took 187ms)
+

@@ -1,0 +1,12 @@
+/*
+ * main.c
+ *
+ *  Created on: 26 февр. 2018 г.
+ *      Author: nohlp
+ */
+#inclide
+
+int main(){
+	printf("HelloWorld");
+	return 0;
+}
