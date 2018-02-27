@@ -21,16 +21,6 @@ int main(){
 
 	printf("Значение: %d\n",a);
 	printf("Адрес: %p\n",&a);
-/*
-	int input;
-	printf("Введите Значение:");
-	scanf("%d",&input);
-
-	printf("Введено %d input*2=%d",input,input*2);
-*/
-
-
-
 
 	return 0;
 }

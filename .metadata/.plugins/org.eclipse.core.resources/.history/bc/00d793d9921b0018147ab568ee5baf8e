@@ -1,0 +1,17 @@
+/*
+ * main.c
+ *
+ *  Created on: 26 февр. 2018 г.
+ *      Author: nohlp
+ */
+#include <stdio.h>
+
+int main(){
+	printf("HelloWorld\n");
+	printf("This is a new row\t with tab");
+	printf("This is a new row\\ with tab");
+
+	int a=50;
+	printf("%05d%%",a);
+	return 0;
+}
