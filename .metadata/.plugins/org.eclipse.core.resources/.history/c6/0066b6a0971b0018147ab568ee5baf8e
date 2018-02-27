@@ -21,10 +21,7 @@ a++;
 	int input;
 	do{
 		printf("Enter a divider for 100: ");
-		scanf("%d",&input);
-	}while(input==0);
-
-		printf("100 / %d = %d", input, 100 / input);
-		printf("Ostatok ot deleniya: %d", 100 % input);
+		scanf("%d",input);
+	}while()
 	return 0;
 }

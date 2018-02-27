@@ -1,0 +1,17 @@
+/*
+ * main.c
+ *
+ *  Created on: 26 февр. 2018 г.
+ *      Author: nohlp
+ */
+#include <stdio.h>
+
+int main(){
+	int a=10;
+	int b=20;
+	while(a<b){
+printf("%d ",a);
+a++;
+	}
+	return 0;
+}

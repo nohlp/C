@@ -1,10 +1,7 @@
-10:47:02 **** Incremental Build of configuration Debug for project HelloWorld ****
+11:27:17 **** Incremental Build of configuration Debug for project HelloWorld ****
 make all 
 make: Цель «all» не требует выполнения команд.
-10:47:22 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-make: Цель «all» не требует выполнения команд.
-10:47:31 **** Incremental Build of configuration Debug for project HelloWorld ****
+11:27:22 **** Incremental Build of configuration Debug for project HelloWorld ****
 make all 
 Building file: ../main.c
 Invoking: GCC C Compiler
@@ -16,7 +13,7 @@ Invoking: GCC C Linker
 gcc  -o "HelloWorld"  ./main.o   
 Finished building target: HelloWorld
  
-10:49:16 **** Incremental Build of configuration Debug for project HelloWorld ****
+11:28:40 **** Incremental Build of configuration Debug for project HelloWorld ****
 make all 
 Building file: ../main.c
 Invoking: GCC C Compiler
@@ -28,121 +25,6 @@ Invoking: GCC C Linker
 gcc  -o "HelloWorld"  ./main.o   
 Finished building target: HelloWorld
  
-10:49:20 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-Building file: ../main.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.c"
-../main.c: В функции «main»:
-../main.c:15:13: предупреждение: формат «%f» ожидает аргумент типа «double», но аргумент 2 имеет тип «int» [-Wformat=]
-  printf("%05f%%",a);
-          ~~~^
-          %05d
-Finished building: ../main.c
- 
-Building target: HelloWorld
-Invoking: GCC C Linker
-gcc  -o "HelloWorld"  ./main.o   
-Finished building target: HelloWorld
- 
-10:49:46 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-Building file: ../main.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.c"
-Finished building: ../main.c
- 
-Building target: HelloWorld
-Invoking: GCC C Linker
-gcc  -o "HelloWorld"  ./main.o   
-Finished building target: HelloWorld
- 
-10:49:55 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-make: Цель «all» не требует выполнения команд.
-10:55:55 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-Building file: ../main.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.c"
-../main.c: В функции «main»:
-../main.c:20:8: предупреждение: неиспользуемая переменная «real» [-Wunused-variable]
-  float real = 5.345f;
-        ^~~~
-../main.c:19:7: предупреждение: неиспользуемая переменная «symbol» [-Wunused-variable]
-  char symbol = 'A';
-       ^~~~~~
-../main.c:18:6: предупреждение: неиспользуемая переменная «number» [-Wunused-variable]
-  int number=-56;
-      ^~~~~~
-../main.c:17:8: предупреждение: неиспользуемая переменная «sh» [-Wunused-variable]
-  short sh=123;
-        ^~
-Finished building: ../main.c
- 
-Building target: HelloWorld
-Invoking: GCC C Linker
-gcc  -o "HelloWorld"  ./main.o   
-Finished building target: HelloWorld
- 
-10:56:02 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-make: Цель «all» не требует выполнения команд.
-10:59:01 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-Building file: ../main.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.c"
-../main.c: В функции «main»:
-../main.c:20:8: предупреждение: неиспользуемая переменная «real» [-Wunused-variable]
-  float real = 5.345f;
-        ^~~~
-../main.c:19:7: предупреждение: неиспользуемая переменная «symbol» [-Wunused-variable]
-  char symbol = 'A';
-       ^~~~~~
-../main.c:18:6: предупреждение: неиспользуемая переменная «number» [-Wunused-variable]
-  int number=-56;
-      ^~~~~~
-../main.c:17:8: предупреждение: неиспользуемая переменная «sh» [-Wunused-variable]
-  short sh=123;
-        ^~
-Finished building: ../main.c
- 
-Building target: HelloWorld
-Invoking: GCC C Linker
-gcc  -o "HelloWorld"  ./main.o   
-Finished building target: HelloWorld
- 
-10:59:04 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-make: Цель «all» не требует выполнения команд.
-11:10:29 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-Building file: ../main.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.c"
-Finished building: ../main.c
- 
-Building target: HelloWorld
-Invoking: GCC C Linker
-gcc  -o "HelloWorld"  ./main.o   
-Finished building target: HelloWorld
- 
-11:10:31 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-make: Цель «all» не требует выполнения команд.
-11:14:20 **** Incremental Build of configuration Debug for project HelloWorld ****
-make all 
-Building file: ../main.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.c"
-Finished building: ../main.c
- 
-Building target: HelloWorld
-Invoking: GCC C Linker
-gcc  -o "HelloWorld"  ./main.o   
-Finished building target: HelloWorld
- 
-11:14:23 **** Incremental Build of configuration Debug for project HelloWorld ****
+11:28:42 **** Incremental Build of configuration Debug for project HelloWorld ****
 make all 
 make: Цель «all» не требует выполнения команд.

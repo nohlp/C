@@ -16,15 +16,10 @@ printf("%d ",a);
 		even++;
 a++;
 	}
-	printf("Even=%d\n",even);
+	printf("Even=%d",even);
 
-	int input;
 	do{
-		printf("Enter a divider for 100: ");
-		scanf("%d",&input);
-	}while(input==0);
 
-		printf("100 / %d = %d", input, 100 / input);
-		printf("Ostatok ot deleniya: %d", 100 % input);
+	}while()
 	return 0;
 }

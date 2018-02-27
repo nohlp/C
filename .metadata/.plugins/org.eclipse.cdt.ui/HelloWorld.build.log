@@ -1,6 +1,6 @@
-11:14:23 **** Incremental Build of configuration Debug for project HelloWorld ****
+11:28:42 **** Incremental Build of configuration Debug for project HelloWorld ****
 make all 
 make: Цель «all» не требует выполнения команд.
 
-11:14:23 Build Finished (took 82ms)
+11:28:43 Build Finished (took 156ms)
 
