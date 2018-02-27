@@ -23,11 +23,6 @@ int main(){
 		frquency[a]++;
 	}
 
-	for(i=0;i<ARRAY_LENGHT;i++){
-		printf("Number %d generated %6d (%5.2f%%) times\n",i,frquency[i],((float)frquency[i]/NUMBERS_AMOUNT*100));
-
-	}
-
 /*
 	int array[ARRAY_LENGHT];
 	array[0]=10;

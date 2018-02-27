@@ -1,0 +1,14 @@
+/*
+ * main.c
+ *
+ *  Created on: 26 февр. 2018 г.
+ *      Author: nohlp
+ */
+#include <stdio.h>
+#include "header.h"
+#define ARRAY_LENGHT 50
+int main(){
+	int array[ARRAY_LENGHT];
+
+	return 0;
+}

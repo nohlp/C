@@ -19,13 +19,7 @@ int main(){
 	int a, i;
 
 	for(i=0;i<NUMBERS_AMOUNT;i++){
-		a = rand() % ARRAY_LENGHT;
-		frquency[a]++;
-	}
-
-	for(i=0;i<ARRAY_LENGHT;i++){
-		printf("Number %d generated %6d (%5.2f%%) times\n",i,frquency[i],((float)frquency[i]/NUMBERS_AMOUNT*100));
-
+		a = rand() % ARRAY_LENGHT
 	}
 
 /*
