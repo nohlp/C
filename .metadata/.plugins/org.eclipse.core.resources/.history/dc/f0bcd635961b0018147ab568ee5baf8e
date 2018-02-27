@@ -41,7 +41,7 @@ a=a^b;
 printf("a=%d, b=%d\n",a,b);
 
 a=a<<3;
-b=b>>2;
+b=b>>3;
 printf("a=%d, b=%d\n",a,b);
 
 	return 0;
