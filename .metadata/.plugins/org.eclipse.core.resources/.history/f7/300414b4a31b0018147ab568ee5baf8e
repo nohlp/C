@@ -12,7 +12,7 @@ int main(){
 	printf("Enter number of lines:");
 	scanf("%d",&lines);
 
-	seeConus(lines);
+	seeConus(lines)
 
 	return 0;
 }
