@@ -17,7 +17,7 @@ int main(){
 	int a=50;
 	int b=30;
 	printf("Swap digits a=%d, b=%d",a,b);
-	swapDigits(&a,&b);
+	swapDigits(&a,&b)
 	printf("Swap digits a=%d, b=%d",a,b);
 
 	return 0;

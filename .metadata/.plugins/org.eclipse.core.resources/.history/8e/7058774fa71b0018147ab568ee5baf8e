@@ -23,7 +23,7 @@ void seeConus(int lines){
 
 }
 
-void swapDigits(int *x,int *y){
+void swapDigits(int x,int y){
 	*x^=*y;
 	*y^=*x;
 	*x^=*y;
